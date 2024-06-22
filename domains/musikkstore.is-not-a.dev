@@ -1,0 +1,16 @@
+{
+    "description": "School Project: Music store",
+
+    "domain": "is-not-a.dev",
+    "subdomain": "musikkstore",
+
+    "owner": {
+        "email": "zallethrejon@gmail.com"
+    },
+
+    "record": {
+        "A": ["189.162.134.140"], 
+    },
+
+    "proxied": false
+}
